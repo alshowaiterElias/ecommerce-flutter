@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "294397099045",
+    "project_id": "ecommerceapp-e97d1",
+    "storage_bucket": "ecommerceapp-e97d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294397099045:android:f402bef35b5e2f5ae6d3cc",
+        "android_client_info": {
+          "package_name": "com.example.football.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294397099045-fmur4bdjffrk6qgegj9o4h79rgrs1c8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZuM7TOBs2n-35sO50uWwMJ6f0XnxgBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294397099045-fmur4bdjffrk6qgegj9o4h79rgrs1c8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294397099045-eqrm6hntf1j7t06h3c7rr6lm7bli8u9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.footballApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294397099045:android:aaf3199ded2ef8f8e6d3cc",
+        "android_client_info": {
+          "package_name": "com.example.football_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294397099045-ethe8udochc0j6feg6tceo5pttgqevsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.football_app",
+            "certificate_hash": "752135191c42ec538da3c217b161f4aaaa88f04c"
+          }
+        },
+        {
+          "client_id": "294397099045-fmur4bdjffrk6qgegj9o4h79rgrs1c8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZuM7TOBs2n-35sO50uWwMJ6f0XnxgBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294397099045-fmur4bdjffrk6qgegj9o4h79rgrs1c8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294397099045-eqrm6hntf1j7t06h3c7rr6lm7bli8u9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.footballApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

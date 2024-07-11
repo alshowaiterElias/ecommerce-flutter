@@ -1,0 +1,71 @@
+name: football_app
+description: "A new Flutter project."
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+#_________________________PACKAGES________________________________________#
+dependencies:
+  flutter:
+    sdk: flutter
+
+    #____ UTILITY  __________#
+  http: ^1.2.1
+  intl: ^0.19.0
+  logger: ^2.3.0
+  smooth_page_indicator: ^1.1.0
+  flutter_native_splash: ^2.4.0
+  url_launcher:
+    ^6.3.0
+    #____ ICONS  __________#
+  cupertino_icons: ^1.0.6
+  iconsax: ^0.0.8
+
+  #_____ BACKEND  ______#
+  cloud_firestore: ^5.0.0
+  firebase_auth: ^5.0.0
+  firebase_analytics: ^11.0.0
+  firebase_core: ^3.1.1
+
+  #_____STATE MANAGMENT ________#
+  get: ^4.6.6
+  get_storage: ^2.1.1
+  #____PRODUCT SPECIFIC _______ #
+
+  carousel_slider: ^4.2.1
+  readmore: ^3.0.0
+  connectivity_plus: ^5.0.1
+  flutter_rating_bar: ^4.0.1
+  lottie: ^2.7.0
+  google_sign_in: ^6.2.1
+  shimmer: ^3.0.0
+  image_picker: ^1.1.2
+  firebase_storage: ^12.1.0
+  cached_network_image: ^3.3.1
+#_________________________PACKAGES END________________________________________#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  #_________________________LOCAL ASSETS ________________________________________#
+  assets:
+    - assets/images/
+    - assets/images/onBoarding/onBoardingImage1.gif
+    - assets/images/onBoarding/onBoardingImage2.gif
+    - assets/images/onBoarding/onBoardingImage3.gif
+    - assets/images/products/
+    - assets/icons/
+    - assets/icons/catagory/
+    - assets/videos/
+    - assets/logos/
+    - assets/sliders/
+    - assets/animations/
